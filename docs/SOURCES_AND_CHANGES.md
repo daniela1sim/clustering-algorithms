@@ -28,7 +28,4 @@ a direct export of all original files, and does not contain Git history.
 
 ## Attribution and public release
 
-Review contributor history, university publication restrictions, and collaborator
-permission before redistributing code. The original repositories and commit
-history remain available at the links above. This ZIP has no copied `.git`
-metadata, and no new open-source license has been assigned.
+The project was done by Daniella Simonovsky and Laura Shopov in colaboration
