@@ -6,7 +6,7 @@ The algorithms are demonstrated independently and can be evaluated together on
 the same numerical dataset.
 
 > **Project origin:** Reorganized and updated from three university projects;
-> not a byte-for-byte export. The source repositories, changes, and authorship
+>  The source repositories, changes, and authorship
 > considerations are documented in [source notes](docs/SOURCES_AND_CHANGES.md).
 
 ## Implemented methods
